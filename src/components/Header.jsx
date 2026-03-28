@@ -32,7 +32,7 @@ const Header = () => {
     <header>
       <div className="container hero-content">
         <div className="logo">
-          <img src="/assets/images/logo.png" alt="InfiniteSpace Logo" />
+          <img src="/assets/images/infinitespace.png" alt="InfiniteSpace Logo" />
         </div>
 
         <nav>
